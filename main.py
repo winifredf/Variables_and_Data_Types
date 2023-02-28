@@ -8,4 +8,6 @@ print("but she despised the name " + character_name + ".")
 print("Princess " + character_name + " set out on a mission to change her name")
 print("She wanted to choose a name that had meaning,")
 print("and represented who she was as a person.")
+
+character_name = "Lisa"
 print("Princess " + character_name + " loves being " + character_age + " and her new meaningful name!")
